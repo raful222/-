@@ -1,13 +1,13 @@
 '''
 Home Work number 1:
 refael robinov 311374193
-gabi levin  317618346
+gavriel levin  317618346
 '''
 
 
 def Xnor(x,y):
     """
-       Question number 1
+       Question number. 1
        Function returning the anwser of Xnor beteen 2 paramters
        Parameters list. x,y
        Return True or False.
@@ -24,8 +24,8 @@ def Xnor(x,y):
 
 def Digits(n):
     """
-           Question number 2
-           Function  A number is checked whether it is even or odd and printed and in addition:
+           Question number. 2
+           Function  A number is checked if his amount of digit less then 6 then:
             1- If there is only one digit then prints the digit itself
             2-If there are two digits prints its sum
             3- If three digits prints the sum of the digits of the first and last
@@ -76,7 +76,7 @@ def Digits(n):
 
 def GoodOrder(number):
     """
-          Question number 3
+          Question number. 3
           Function returns true if all digits in the number are even or odd numbers
           Parameters list.  a Integer number
           Return True or False.
@@ -98,7 +98,7 @@ def GoodOrder(number):
 
 def Figure(n):
     """
-             Question number 4
+             Question number. 4
              Function Prints a triangle at the top starting with the
              number 1 up to the number itself in the hip shape at the ends of the largest number in the row
              Parameters list. single-digit integer
@@ -122,7 +122,7 @@ def Figure(n):
 
 def Weight(number):
         """
-              Question number 5
+              Question number. 5
               Function Returns the weight of a digit with help of 2 Recursive function
               A weight is defined as the sum of the number of digits and a digit with a maximum value
               Parameters list.  a Integer number
@@ -135,7 +135,7 @@ def Weight(number):
 
 def num_of_organs(n):
         """
-                  Question number 5 help
+                  Question number. 5 help
                   Function Recursive Returns the num_of_organs in a digits
                   Parameters list. a Integer number
                   Return integer.
@@ -148,7 +148,7 @@ def num_of_organs(n):
 
 def Max(n, max):
         """
-                      Question number 5 help
+                      Question number. 5 help
                       Function Recursive Returns the Max digits in a number
                       Parameters list. a Integer number and maxiuom number
                       Return integer.
@@ -164,7 +164,7 @@ def Max(n, max):
 
 def IsPrimary(n):
     """
-              Question number 6
+              Question number. 6
               Function Recursive returns true if The number is a prime number
               Parameters list.  a Integer number
               Return True or False.
@@ -179,9 +179,9 @@ def IsPrimary(n):
 
 def Reduce(num):
     """
-              Question number 7
+              Question number. 7
               Function Recursive returns a number Consisting of the digits of the number without the digit 0
-              Parameters list a Integer number.
+              Parameters list.  Integer number.
               Return a Integer number.
               """
     new_num=0
@@ -203,7 +203,7 @@ def Reduce(num):
 
 def Pascal(n,m):
     """
-              Question number 8
+              Question number. 8
               Function Recursive returns The number that appears in row n and column m in the Pascal triangle
               Parameters list.  2 Integer number
               Return Integer.
